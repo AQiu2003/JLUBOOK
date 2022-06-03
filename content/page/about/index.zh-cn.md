@@ -1,9 +1,10 @@
 ---
-title: "关于我们"
-date: 2022-06-03T10:48:24+08:00
-image: "big cover.jpg"
-categories:
-    - blog
+title: 关于
+menu:
+    main: 
+        weight: -90
+        params:
+            icon: user
 ---
 
 # JLUBook的二三事

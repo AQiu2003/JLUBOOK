@@ -9,10 +9,6 @@ languages:
         languageName: 中文
         title: JLUBOOK
         weight: 1
-    en:
-        languageName: English
-        title: JLUBOOK
-        weight: 2
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -196,9 +192,9 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: bilibili
+          name: bilibili
+          url: https://space.bilibili.com/70730933
           params:
               icon: brand-bilibili
 
